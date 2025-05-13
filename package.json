@@ -1,6 +1,6 @@
 {
   "name": "useless-facts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package that returns a useless fact!",
   "main": "index.js",
   "keywords": [
