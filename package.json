@@ -1,0 +1,23 @@
+{
+  "name": "useless-facts",
+  "version": "1.0.0",
+  "description": "An npm package that returns a useless fact!",
+  "main": "index.js",
+  "keywords": ["useless", "facts", "random", "cli", "fun"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vams-skn/useless-facts.git"
+  },
+  "author": "Vaishnavi M Sankaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vams-skn/useless-facts/issues"
+  },
+  "homepage": "https://github.com/vams-skn/useless-facts#readme",
+  "dependencies": {
+    "https": "1.0.0"
+  }
+}
