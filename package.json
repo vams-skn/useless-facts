@@ -22,8 +22,5 @@
   "bugs": {
     "url": "https://github.com/vams-skn/useless-facts/issues"
   },
-  "homepage": "https://github.com/vams-skn/useless-facts#readme",
-  "dependencies": {
-    "useless-facts": "^1.0.0"
-  }
+  "homepage": "https://github.com/vams-skn/useless-facts#readme"
 }
